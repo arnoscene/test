@@ -7,10 +7,10 @@ public class BuildingPlacement : MonoBehaviour {
 
 	private Transform currentBuilding;
 
-	private bool hasPlaced;
-	placeableBuilding Placeable;
-	placeableBuilding placeableBuildingOld;
-	public LayerMask buildingsMask;
+//	private bool hasPlaced;
+//	placeableBuilding Placeable;
+//	placeableBuilding placeableBuildingOld;
+//	public LayerMask buildingsMask;
 	
 
 	// Use this for initialization
